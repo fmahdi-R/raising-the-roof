@@ -1,0 +1,4 @@
+machine-name: 	mabel
+ip address:		172.20.4.102
+login:			data4good
+password:		data4good

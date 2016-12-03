@@ -1,0 +1,2118 @@
+Id,Name,OrganisationTypeId
+1,#0003 Royal Centre,3
+2,#0004 Saint John Main NB,3
+3,#0113 Amherst NS,3
+4,#0114 Bathurst NB,3
+5,#0224 Bouctouche NB,3
+6,#0333 Antigonish NS,3
+7,#0484 Chatham NB,3
+8,#0553 Baddeck NS,3
+9,#0554 Dalhousie NB,3
+10,#0663 Barrington Passage NS,3
+11,#0824 Fredericton, Brookside Mall NB,3
+12,#0883 Bedford NS,3
+13,#0884 Fredericton,3
+14,#0934 Fredericton Shop NB,3
+15,#1103 Bridgetown NB,3
+16,#1104 Grand Falls NB,3
+17,#1214 Harvey NB,3
+18,#1264 Westwind Place Br. NB,3
+19,#1374&#1774 Blue Cross Centre NB,3
+20,#1434 Moncton,3
+21,#1543 Clark's Harbour NS,3
+22,#1544 Miramichi NB,3
+23,#1644 Oromocto NB,3
+24,#1654 Plaster Rock NB,3
+25,#1763 Portland Street,3
+26,#1793 Burnside,3
+27,#1833 Dartmouth, Cole Harbour NS,3
+28,#1874 Sackville NB,3
+29,#1904 Quispamsis NB,3
+30,#1943 Dartmouth,3
+31,#1984 Lansdowne & Wellesley,3
+32,#2014 McAllister Place NB,3
+33,#2094 St. Stephen NB,3
+34,#2203 Elmsdale NS,3
+35,#2204 Sussex NB,3
+36,#2313 Glace Bay NS,3
+37,#2314 Woodstock NB,3
+38,#2423 Guysborough NS,3
+39,#2533 Almon St., Hfx NS,3
+40,#3303 Hfx, Quinpool & Oxford NS,3
+41,#3353 Halifax Shopping Centre NS,3
+42,#3413 Spring Garden Road,3
+43,#3633 Kentville,3
+44,#3653 Lr. Sackville Pers Bkg Ctr,3
+45,#4183 Louisbourg NS,3
+46,#4293 Lunenburg NS,3
+47,#4513 Meteghan NS,3
+48,#4623 Middle Musquodoboit NS,3
+49,#4733 Middleton NS,3
+50,#488 Royal Direct, Moncton,3
+51,#4903 Musquodoboit Harbour NS,3
+52,#5054 Charlottetown Main PEI,3
+53,#5063 New Glasgow NS,3
+54,#5064 Charlottetown, University Ave PEI,3
+55,#5173 New Waterford NS,3
+56,#5283 North Sydney NS,3
+57,#5503 Pictou NS,3
+58,#5563 Porter's Lake NS,3
+59,#5613 Port Hawkesbury NS,3
+60,#5783 Halifax, Clayton Park NS,3
+61,#5833 St. Peter's NS,3
+62,#6113 Herring Cove Road,3
+63,#6163 Stellarton NB,3
+64,#6603 Prince St. Plaza, Sydney NS,3
+65,#6823 Truro Branch NS,3
+66,#7153 Coldbrook Ctr NS,3
+67,#7213 West Pubnico NS,3
+68,#7263 Westville NS,3
+69,#7593 Windsor NS,3
+70,#7703 Wolfville NS,3
+71,#7813 Yarmouth NS,3
+72,#9284 Fredericton NB,3
+73,10 Toque Promo,10
+74,100 City Ctr Drive, Mississ,4
+75,10303 Jasper Ave. Suite 1850,3
+76,111 - 5th Ave. SW Suite 1000,3
+77,140 Saskatchewan Ave. East,3
+78,2225 Sheppard Avenue East,3
+79,25 Sheppard Ave. West,3
+80,25 Sheppard Ave. West Suite 1400,3
+81,25 Sheppard Ave. West Suite 1500,3
+82,26 Fieldway Rd.,3
+83,2645 Skymark Ave. 1 st. Floor,3
+84,360 kids,9
+85,4711 Yonge Street Suite 600,3
+86,80 Allstate Parkway,3
+87,905-936-4743  fax 905-936-3752,8
+88,AADAC,3
+89,Agencies - Misc,9
+90,AGF Management - TD Tower,3
+91,Alderwood United Church,12
+92,Aliant Pioneers,3
+93,Allenby Public School,1
+94,Ambrae Academy,1
+95,AMJ Campbell,10
+96,Angus United Church,12
+97,APCO,3
+98,April House,9
+99,Armour Heights Public School,1
+100,Ashbury College (Ottawa),1
+101,Aston Meadows School,1
+102,Atlas Block Co. Limited,3
+103,Auberge de Madeline,9
+104,Aurora High School,1
+105,Aurora United Church Outreach Committee,12
+106,Bain & Company,3
+107,Bala-Port Carling United Church,12
+108,Bathurst Station|AM,7
+109,Bathurst Station|PM,7
+110,Bathurst United,12
+111,Bayview Secondary School,1
+112,BC Agencies,10
+113,Bedford Park,12
+114,Benjamin Moore,3
+115,BIA,3
+116,Bio-Lab Canada Inc.,3
+117,Bishop Morocco Thomas Merton High School,1
+118,Bloor &Yonge Station|AM,7
+119,Bloor &Yonge Station|PM,7
+120,BMO,10
+121,Board,6
+122,Bondhead United Church,12
+123,Bowne,10
+124,Boys & Girls Club - Calgary,9
+125,Bracebridge United,12
+126,Brandon,11
+127,Brantford Native Housing,9
+128,Brantford Welcome In,9
+129,Brother Andre Catholic High School,1
+130,Brownridge Public School,1
+131,Bruce Mansour,10
+132,Bryony House,9
+133,Burry Corporation - Jocelyne,3
+134,C/O Metro Waste Paper Recovery,3
+135,CAIFA,3
+136,Calgary,11
+137,Calgary John Howard Society: Raido House,9
+138,Cami Automotive,3
+139,Campus Living,3
+140,Camrose,11
+141,Canada Mortgage & Housing Corporation,4
+142,Canadian Diabetes Association,9
+143,Canadian Mental Health Association, Thompson Inc.,9
+144,Cape Breton Community Housing Association,9
+145,Cardinal Carter Academy For the Arts,1
+146,Carleton Place,11
+147,CAW Local 27,3
+148,CAW Local 88 PEL Participants,3
+149,CBC,10
+150,Cedarglen,10
+151,Central Westside United Church,12
+152,Centre of Hope,9
+153,Centretown Citizens Ottawa Corp.,9
+154,CFB Ottawa - Geomatics Div.,4
+155,CFMZ,10
+156,CFRB,10
+157,Chaminade College School,1
+158,Chaplain's Meeting,10
+159,Charlottetown Boys & Girls Club,9
+160,CHFI,10
+161,Choices for Youth,9
+162,CHUM FM,10
+163,Church of the Master,12
+164,City Hall Application Committee,10
+165,City of Toronto,4
+166,City TV,10
+167,CityTV PSA Promo,10
+168,CKFM,10
+169,Clarkson Rouble LLP,3
+170,Coca Cola Bottling Company,3
+171,Collingwood,11
+172,Collingwood/Orillia,11
+173,Comedy Cabaret,10
+174,Comedy Gala,3
+175,Commisso's - Burlington,3
+176,Commisso's Food Market,3
+177,Community Care,0
+178,Community First,9
+179,Community Youth Network / Humber Community YMCA,9
+180,Comox,11
+181,Connor, Clark & Lunn Private Capital Ltd.,3
+182,Consumers Rd.,3
+183,Coppard Glen Public School,1
+184,Cornerbrook,11
+185,Cornerstone Landing ER,9
+186,Corporate Advantage Inc.,10
+187,Cosburn United Church,12
+188,Couchiching Jubilee House,9
+189,Country Day School,1
+190,Crescent School,1
+191,Crestwood School,1
+192,Crystal Glass,3
+193,Dalhousie University,1
+194,Dandylion Daycare,1
+195,Dave Crawford (through Bell),6
+196,Dave Murphy,10
+197,Dawn to Dawn,9
+198,Day of Sales,3
+199,Deer Park United Church,12
+200,Degrassi PSA Shoot,10
+201,Deloitte & Touche,3
+202,Direct Energy Essential Home Services,3
+203,Direct Mail,6
+204,DKPR,10
+205,dmg World Media,3
+206,Don Mills Foundation for Seniors,3
+207,Don Mills|AM,7
+208,Donald Murphy,6
+209,Donway Covenant United Church,12
+210,DownEast,3
+211,Downsview Station|AM,7
+212,Downsview Station|PM,7
+213,Downtown Yonge BIA,10
+214,Dr. Denison Sec. School - Newmarket,1
+215,Dunbarton - Fairport United Church,12
+216,Dundas Station|AM,7
+217,Dundas Station|PM,7
+218,Durham,11
+219,Ebenezer United Church,12
+220,Edelman Public Relations,3
+221,Edmonton,11
+222,Eglinton St. George's United Church,12
+223,Eglinton Station|AM,7
+224,Eglinton Station|PM,7
+225,Eleanor Harper - Kew Beach United,12
+226,Elizabeth Fry Society,9
+227,Ellesmere Rd.,3
+228,Elmira District Secondary School,1
+229,Emera,3
+230,Emmanuel Howard Park United Church,12
+231,Empire House,3
+232,Empire House Family & Children Services  of Lunenburg Country,9
+233,Extend Marketing,10
+234,Fairlawn - St. James Bond United Church,12
+235,Fairlawn Avenue United Church,12
+236,Fairlawn Heights United Church,12
+237,Fairmont Hotels & Resorts,3
+238,Fairview|PM,7
+239,Faith Groups/schools,12
+240,Father Henri Nouwen Catholic School,1
+241,Fidelity Investments Canada Limited,3
+242,Fifthshire Homes,3
+243,Finch Station|AM,7
+244,Finch Station|PM,7
+245,First Picture Frame Warehouse,10
+246,First United - Mississauga,12
+247,First United - Owen Sound,12
+248,Fisherville J.H.S.,1
+249,Flesherton Pastoral Charge,12
+250,Focused Creative Communications,10
+251,Fort McMurray,11
+252,Franklin Templeton Investments Corp.,3
+253,Fredericton Homeless Shelters,9
+254,Gate 2, 40 Bay Street,3
+255,George S. Henry Academy General,1
+256,George Vanier S.S.,1
+257,Girl Guides of Canada,9
+258,Glen Ayr United Church,12
+259,Glen Rhodes United,12
+260,Global,10
+261,Global PSA,10
+262,Global Television,3
+263,Global/CH Toque Launch,10
+264,Good Shepherd Elementary School,1
+265,Goodman Canada,3
+266,Goose Bay,11
+267,Grace Church-on-the-Hill,12
+268,Grace United Church,12
+269,Grande Prairie,11
+270,Grande Prairie Youth Emergency Shelter Society – Sunrise House,9
+271,Green Light Initiative,10
+272,Greenwood College,1
+273,Grey Gables,1
+274,Grey Worldwide,3
+275,Grimsby,11
+276,Grimsby Affordable Housing Partnership,9
+277,Groupe Communautaire L'Itinérair'e,9
+278,Groupe L'Itinérair'e,9
+279,Gutherie United Church,12
+280,Guthrie Hewkestone Pastoral Church,12
+281,Habitat for Humanity Huronia,9
+282,Halifax,11
+283,Hamilton,11
+284,Hamilton/Burlington,11
+285,Happy Valley - Goose Bay,11
+286,Havergal College 416-483-3519,1
+287,Hawkstone United Church Women,12
+288,Headway/Lee's Studio,3
+289,Highgate Public School,1
+290,Hillfield Strathallan,1
+291,Holland Landing United,12
+292,Holy Blossom Temple,12
+293,Holy Cross School,1
+294,Holy Trinity School,1
+295,Home Depot,3
+296,Homeless Coalition of Windsor & Essex County,9
+297,Homelessness Secretariat,9
+298,Homes,3
+299,HOMES Charity Golf Tournament,10
+300,HOMES Publishing,3
+301,Homeward Trust Edmonton,9
+302,Hope Centre,3
+303,Hope Cottage,3
+304,Houselink Community,9
+305,Housing Information Svc.,10
+306,HRDC What works conference,2
+307,Hudson College,1
+308,Human Resource Development Canada,4
+309,Humber (Laura Parker),1
+310,Humbercrest United Church,12
+311,Humberside Collegiate Institute,1
+312,Hydroone Markham,3
+313,Hydroone Trinity Building,3
+314,IBM - Inplex Facility Logistics,3
+315,IKO,3
+316,Impackt,10
+317,Imperial Tobacco Company Ltd,3
+318,Individual,5
+319,Individual Sales,5
+320,Information Orillia,9
+321,ING Direct,3
+322,ING Halifax,3
+323,Intact,3
+324,Intact Promo,10
+325,Investment Planning Counsel,3
+326,ISIS,8
+327,Islington Station|AM,7
+328,Islington Station|PM,7
+329,IWK - ESP,3
+330,Jackie Feig,10
+331,Jays Care Foundation,10
+332,Jean Vanier Catholic School,1
+333,Jennifer,6
+334,John Harding,10
+335,John Ross Robertson Junior P.S.,1
+336,Julie Garvey,10
+337,Keswick United Church,12
+338,Kew Beach United Church,12
+339,King Station|PM,7
+340,Kingston,7
+341,Kingston Rd United,12
+342,Kingsway College School,1
+343,Kingsway Lambton United Church,12
+344,Kipling Station|AM,7
+345,Kipling Station|PM,7
+346,Kitchener,11
+347,Kitchener/Waterloo,11
+348,Knox United,12
+349,Labrador Friendship Centre,9
+350,Lakehead University,1
+351,Lakeridge Health Corporation,3
+352,Lauderdale Sales Co.,3
+353,Lawrence Park C.I.,1
+354,Leader School,1
+355,Leaside United Church,12
+356,left blank,3
+357,Legal Studies Student Association,1
+358,Lemonville,12
+359,Leo Burnett,10
+360,Lexor,3
+361,LifeSpin,10
+362,Little Tots Manor,1
+363,London,11
+364,London Community Health Centre,9
+365,London Guarantee Insurance Co.,3
+366,London InterCommunity Health Centre,3
+367,Lookout Emergency Aid Society,9
+368,Lutherwood CODA,9
+369,Macdonald Youth Services,9
+370,MacLaren McCann,3
+371,Mac's Convenience Stores,3
+372,Madeline,6
+373,Madonna Catholic Secondary School,1
+374,Mahogany Management,3
+375,Main Post Office Almon,3
+376,Maison Le Baluchon,9
+377,Manor Road United Church,12
+378,Maritime Life Bldg,3
+379,Mark Renzoni,10
+380,Martin Air,10
+381,Marystown,11
+382,mask_0001,5
+383,mask_0002,5
+384,mask_0003,5
+385,mask_0004,5
+386,mask_0005,5
+387,mask_0006,5
+388,mask_0007,5
+389,mask_0008,5
+390,mask_0009,5
+391,mask_0010,5
+392,mask_0011,5
+393,mask_0012,5
+394,mask_0013,5
+395,mask_0014,5
+396,mask_0015,5
+397,mask_0016,5
+398,mask_0017,5
+399,mask_0018,5
+400,mask_0019,5
+401,mask_0020,5
+402,mask_0021,5
+403,mask_0022,5
+404,mask_0023,5
+405,mask_0024,5
+406,mask_0025,5
+407,mask_0026,5
+408,mask_0027,5
+409,mask_0028,5
+410,mask_0029,5
+411,mask_0030,5
+412,mask_0031,5
+413,mask_0032,5
+414,mask_0033,5
+415,mask_0034,5
+416,mask_0035,5
+417,mask_0036,5
+418,mask_0037,5
+419,mask_0038,5
+420,mask_0039,5
+421,mask_0040,5
+422,mask_0041,5
+423,mask_0042,5
+424,mask_0043,5
+425,mask_0044,5
+426,mask_0045,5
+427,mask_0046,5
+428,mask_0047,5
+429,mask_0048,5
+430,mask_0049,5
+431,mask_0050,5
+432,mask_0051,5
+433,mask_0052,5
+434,mask_0053,5
+435,mask_0054,5
+436,mask_0055,5
+437,mask_0056,5
+438,mask_0057,5
+439,mask_0058,5
+440,mask_0059,5
+441,mask_0060,5
+442,mask_0061,5
+443,mask_0062,5
+444,mask_0063,5
+445,mask_0064,5
+446,mask_0065,5
+447,mask_0066,5
+448,mask_0067,5
+449,mask_0068,5
+450,mask_0069,5
+451,mask_0070,5
+452,mask_0071,5
+453,mask_0072,5
+454,mask_0073,5
+455,mask_0074,5
+456,mask_0075,5
+457,mask_0076,5
+458,mask_0077,5
+459,mask_0078,5
+460,mask_0079,5
+461,mask_0080,5
+462,mask_0081,5
+463,mask_0082,5
+464,mask_0083,5
+465,mask_0084,5
+466,mask_0085,5
+467,mask_0086,5
+468,mask_0087,5
+469,mask_0088,5
+470,mask_0089,5
+471,mask_0090,5
+472,mask_0091,5
+473,mask_0092,5
+474,mask_0093,5
+475,mask_0094,5
+476,mask_0095,5
+477,mask_0096,5
+478,mask_0097,5
+479,mask_0098,5
+480,mask_0099,5
+481,mask_0100,5
+482,mask_0101,5
+483,mask_0102,5
+484,mask_0103,5
+485,mask_0104,5
+486,mask_0105,5
+487,mask_0106,5
+488,mask_0107,5
+489,mask_0108,5
+490,mask_0109,5
+491,mask_0110,5
+492,mask_0111,5
+493,mask_0112,5
+494,mask_0113,5
+495,mask_0114,5
+496,mask_0115,5
+497,mask_0116,5
+498,mask_0117,5
+499,mask_0118,5
+500,mask_0119,5
+501,mask_0120,5
+502,mask_0121,5
+503,mask_0122,5
+504,mask_0123,5
+505,mask_0124,5
+506,mask_0125,5
+507,mask_0126,5
+508,mask_0127,5
+509,mask_0128,5
+510,mask_0129,5
+511,mask_0130,5
+512,mask_0131,5
+513,mask_0132,5
+514,mask_0133,5
+515,mask_0134,5
+516,mask_0135,5
+517,mask_0136,5
+518,mask_0137,5
+519,mask_0138,5
+520,mask_0139,5
+521,mask_0140,5
+522,mask_0141,5
+523,mask_0142,5
+524,mask_0143,5
+525,mask_0144,5
+526,mask_0145,5
+527,mask_0146,5
+528,mask_0147,5
+529,mask_0148,5
+530,mask_0149,5
+531,mask_0150,5
+532,mask_0151,5
+533,mask_0152,5
+534,mask_0153,5
+535,mask_0154,5
+536,mask_0155,5
+537,mask_0156,5
+538,mask_0157,5
+539,mask_0158,5
+540,mask_0159,5
+541,mask_0160,5
+542,mask_0161,5
+543,mask_0162,5
+544,mask_0163,5
+545,mask_0164,5
+546,mask_0165,5
+547,mask_0166,5
+548,mask_0167,5
+549,mask_0168,5
+550,mask_0169,5
+551,mask_0170,5
+552,mask_0171,5
+553,mask_0172,5
+554,mask_0173,5
+555,mask_0174,5
+556,mask_0175,5
+557,mask_0176,5
+558,mask_0177,5
+559,mask_0178,5
+560,mask_0179,5
+561,mask_0180,5
+562,mask_0181,5
+563,mask_0182,5
+564,mask_0183,5
+565,mask_0184,5
+566,mask_0185,5
+567,mask_0186,5
+568,mask_0187,5
+569,mask_0188,5
+570,mask_0189,5
+571,mask_0190,5
+572,mask_0191,5
+573,mask_0192,5
+574,mask_0193,5
+575,mask_0194,5
+576,mask_0195,5
+577,mask_0196,5
+578,mask_0197,5
+579,mask_0198,5
+580,mask_0199,5
+581,mask_0200,5
+582,mask_0201,5
+583,mask_0202,5
+584,mask_0203,5
+585,mask_0204,5
+586,mask_0205,5
+587,mask_0206,5
+588,mask_0207,5
+589,mask_0208,5
+590,mask_0209,5
+591,mask_0210,5
+592,mask_0211,5
+593,mask_0212,5
+594,mask_0213,5
+595,mask_0214,5
+596,mask_0215,5
+597,mask_0216,5
+598,mask_0217,5
+599,mask_0218,5
+600,mask_0219,5
+601,mask_0220,5
+602,mask_0221,5
+603,mask_0222,5
+604,mask_0223,5
+605,mask_0224,5
+606,mask_0225,5
+607,mask_0226,5
+608,mask_0227,5
+609,mask_0228,5
+610,mask_0229,5
+611,mask_0230,5
+612,mask_0231,5
+613,mask_0232,5
+614,mask_0233,5
+615,mask_0234,5
+616,mask_0235,5
+617,mask_0236,5
+618,mask_0237,5
+619,mask_0238,5
+620,mask_0239,5
+621,mask_0240,5
+622,mask_0241,5
+623,mask_0242,5
+624,mask_0243,5
+625,mask_0244,5
+626,mask_0245,5
+627,mask_0246,5
+628,mask_0247,5
+629,mask_0248,5
+630,mask_0249,5
+631,mask_0250,5
+632,mask_0251,5
+633,mask_0252,5
+634,mask_0253,5
+635,mask_0254,5
+636,mask_0255,5
+637,mask_0256,5
+638,mask_0257,5
+639,mask_0258,5
+640,mask_0259,5
+641,mask_0260,5
+642,mask_0261,5
+643,mask_0262,5
+644,mask_0263,5
+645,mask_0264,5
+646,mask_0265,5
+647,mask_0266,5
+648,mask_0267,5
+649,mask_0268,5
+650,mask_0269,5
+651,mask_0270,5
+652,mask_0271,5
+653,mask_0272,5
+654,mask_0273,5
+655,mask_0274,5
+656,mask_0275,5
+657,mask_0276,5
+658,mask_0277,5
+659,mask_0278,5
+660,mask_0279,5
+661,mask_0280,5
+662,mask_0281,5
+663,mask_0282,5
+664,mask_0283,5
+665,mask_0284,5
+666,mask_0285,5
+667,mask_0286,5
+668,mask_0287,5
+669,mask_0288,5
+670,mask_0289,5
+671,mask_0290,5
+672,mask_0291,5
+673,mask_0292,5
+674,mask_0293,5
+675,mask_0294,5
+676,mask_0295,5
+677,mask_0296,5
+678,mask_0297,5
+679,mask_0298,5
+680,mask_0299,5
+681,mask_0300,5
+682,mask_0301,5
+683,mask_0302,5
+684,mask_0303,5
+685,mask_0304,5
+686,mask_0305,5
+687,mask_0306,5
+688,mask_0307,5
+689,mask_0308,5
+690,mask_0309,5
+691,mask_0310,5
+692,mask_0311,5
+693,mask_0312,5
+694,mask_0313,5
+695,mask_0314,5
+696,mask_0315,5
+697,mask_0316,5
+698,mask_0317,5
+699,mask_0318,5
+700,mask_0319,5
+701,mask_0320,5
+702,mask_0321,5
+703,mask_0322,5
+704,mask_0323,5
+705,mask_0324,5
+706,mask_0325,5
+707,mask_0326,6
+708,mask_0327,5
+709,mask_0328,5
+710,mask_0329,5
+711,mask_0330,5
+712,mask_0331,5
+713,mask_0332,5
+714,mask_0333,5
+715,mask_0334,5
+716,mask_0335,5
+717,mask_0336,5
+718,mask_0337,5
+719,mask_0338,5
+720,mask_0339,5
+721,mask_0340,5
+722,mask_0341,5
+723,mask_0342,5
+724,mask_0343,5
+725,mask_0344,5
+726,mask_0345,5
+727,mask_0346,5
+728,mask_0347,5
+729,mask_0348,5
+730,mask_0349,5
+731,mask_0350,5
+732,mask_0351,5
+733,mask_0352,5
+734,mask_0353,5
+735,mask_0354,5
+736,mask_0355,5
+737,mask_0356,5
+738,mask_0357,5
+739,mask_0358,5
+740,mask_0359,5
+741,mask_0360,5
+742,mask_0361,5
+743,mask_0362,5
+744,mask_0363,5
+745,mask_0364,5
+746,mask_0365,5
+747,mask_0366,5
+748,mask_0367,5
+749,mask_0368,5
+750,mask_0369,5
+751,mask_0370,5
+752,mask_0371,5
+753,mask_0372,5
+754,mask_0373,5
+755,mask_0374,5
+756,mask_0375,5
+757,mask_0376,5
+758,mask_0377,5
+759,mask_0378,5
+760,mask_0379,5
+761,mask_0380,5
+762,mask_0381,5
+763,mask_0382,5
+764,mask_0383,5
+765,mask_0384,5
+766,mask_0385,5
+767,mask_0386,5
+768,mask_0387,5
+769,mask_0388,5
+770,mask_0389,5
+771,mask_0390,5
+772,mask_0391,5
+773,mask_0392,5
+774,mask_0393,5
+775,mask_0394,5
+776,mask_0395,5
+777,mask_0396,5
+778,mask_0397,5
+779,mask_0398,5
+780,mask_0399,5
+781,mask_0400,5
+782,mask_0401,5
+783,mask_0402,5
+784,mask_0403,5
+785,mask_0404,5
+786,mask_0405,5
+787,mask_0406,5
+788,mask_0407,5
+789,mask_0408,5
+790,mask_0409,5
+791,mask_0410,5
+792,mask_0411,5
+793,mask_0412,5
+794,mask_0413,5
+795,mask_0414,5
+796,mask_0415,5
+797,mask_0416,5
+798,mask_0417,5
+799,mask_0418,5
+800,mask_0419,5
+801,mask_0420,5
+802,mask_0421,5
+803,mask_0422,5
+804,mask_0423,5
+805,mask_0424,5
+806,mask_0425,5
+807,mask_0426,5
+808,mask_0427,5
+809,mask_0428,5
+810,mask_0429,5
+811,mask_0430,5
+812,mask_0431,5
+813,mask_0432,5
+814,mask_0433,5
+815,mask_0434,5
+816,mask_0435,5
+817,mask_0436,5
+818,mask_0437,5
+819,mask_0438,5
+820,mask_0439,5
+821,mask_0440,5
+822,mask_0441,5
+823,mask_0442,5
+824,mask_0443,5
+825,mask_0444,5
+826,mask_0445,5
+827,mask_0446,5
+828,mask_0447,5
+829,mask_0448,5
+830,mask_0449,5
+831,mask_0450,5
+832,mask_0451,5
+833,mask_0452,5
+834,mask_0453,5
+835,mask_0454,5
+836,mask_0455,5
+837,mask_0456,5
+838,mask_0457,5
+839,mask_0458,5
+840,mask_0459,5
+841,mask_0460,5
+842,mask_0461,5
+843,mask_0462,5
+844,mask_0463,5
+845,mask_0464,5
+846,mask_0465,5
+847,mask_0466,5
+848,mask_0467,5
+849,mask_0468,5
+850,mask_0469,5
+851,mask_0470,5
+852,mask_0471,5
+853,mask_0472,5
+854,mask_0473,5
+855,mask_0474,5
+856,mask_0475,5
+857,mask_0476,5
+858,mask_0477,5
+859,mask_0478,5
+860,mask_0479,5
+861,mask_0480,5
+862,mask_0481,5
+863,mask_0482,5
+864,mask_0483,5
+865,mask_0484,5
+866,mask_0485,5
+867,mask_0486,5
+868,mask_0487,5
+869,mask_0488,5
+870,mask_0489,5
+871,mask_0490,5
+872,mask_0491,5
+873,mask_0492,5
+874,mask_0493,5
+875,mask_0494,5
+876,mask_0495,5
+877,mask_0496,5
+878,mask_0497,5
+879,mask_0498,5
+880,mask_0499,5
+881,mask_0500,5
+882,mask_0501,5
+883,mask_0502,5
+884,mask_0503,5
+885,mask_0504,5
+886,mask_0505,5
+887,mask_0506,5
+888,mask_0507,5
+889,mask_0508,5
+890,mask_0509,5
+891,mask_0510,5
+892,mask_0511,5
+893,mask_0512,5
+894,mask_0513,5
+895,mask_0514,5
+896,mask_0515,5
+897,mask_0516,5
+898,mask_0517,5
+899,mask_0518,5
+900,mask_0519,5
+901,mask_0520,5
+902,mask_0521,5
+903,mask_0522,5
+904,mask_0523,5
+905,mask_0524,5
+906,mask_0525,5
+907,mask_0526,5
+908,mask_0527,5
+909,mask_0528,5
+910,mask_0529,5
+911,mask_0530,5
+912,mask_0531,5
+913,mask_0532,5
+914,mask_0533,5
+915,mask_0534,5
+916,mask_0535,5
+917,mask_0536,5
+918,mask_0537,5
+919,mask_0538,5
+920,mask_0539,5
+921,mask_0540,5
+922,mask_0541,5
+923,mask_0542,5
+924,mask_0543,5
+925,mask_0544,5
+926,mask_0545,5
+927,mask_0546,5
+928,mask_0547,5
+929,mask_0548,5
+930,mask_0549,5
+931,mask_0550,5
+932,mask_0551,5
+933,mask_0552,5
+934,mask_0553,5
+935,mask_0554,5
+936,mask_0555,5
+937,mask_0556,5
+938,mask_0557,5
+939,mask_0558,5
+940,mask_0559,5
+941,mask_0560,5
+942,mask_0561,5
+943,mask_0562,5
+944,mask_0563,5
+945,mask_0564,5
+946,mask_0565,5
+947,mask_0566,5
+948,mask_0567,5
+949,mask_0568,5
+950,mask_0569,5
+951,mask_0570,5
+952,mask_0571,5
+953,mask_0572,5
+954,mask_0573,5
+955,mask_0574,5
+956,mask_0575,5
+957,mask_0576,5
+958,mask_0577,5
+959,mask_0578,5
+960,mask_0579,5
+961,mask_0580,5
+962,mask_0581,5
+963,mask_0582,5
+964,mask_0583,5
+965,mask_0584,5
+966,mask_0585,5
+967,mask_0586,5
+968,mask_0587,5
+969,mask_0588,5
+970,mask_0589,5
+971,mask_0590,5
+972,mask_0591,5
+973,mask_0592,5
+974,mask_0593,5
+975,mask_0594,5
+976,mask_0595,5
+977,mask_0596,5
+978,mask_0597,5
+979,mask_0598,5
+980,mask_0599,5
+981,mask_0600,5
+982,mask_0601,5
+983,mask_0602,5
+984,mask_0603,5
+985,mask_0604,5
+986,mask_0605,5
+987,mask_0606,5
+988,mask_0607,5
+989,mask_0608,5
+990,mask_0609,5
+991,mask_0610,5
+992,mask_0611,5
+993,mask_0612,5
+994,mask_0613,5
+995,mask_0614,5
+996,mask_0615,5
+997,mask_0616,5
+998,mask_0617,5
+999,mask_0618,5
+1000,mask_0619,5
+1001,mask_0620,5
+1002,mask_0621,5
+1003,mask_0622,5
+1004,mask_0623,5
+1005,mask_0624,5
+1006,mask_0625,5
+1007,mask_0626,5
+1008,mask_0627,5
+1009,mask_0628,5
+1010,mask_0629,5
+1011,mask_0630,5
+1012,mask_0631,5
+1013,mask_0632,5
+1014,mask_0633,5
+1015,mask_0634,5
+1016,mask_0635,5
+1017,mask_0636,5
+1018,mask_0637,5
+1019,mask_0638,5
+1020,mask_0639,5
+1021,mask_0640,5
+1022,mask_0641,5
+1023,mask_0642,5
+1024,mask_0643,5
+1025,mask_0644,5
+1026,mask_0645,5
+1027,mask_0646,5
+1028,mask_0647,5
+1029,mask_0648,5
+1030,mask_0649,5
+1031,mask_0650,5
+1032,mask_0651,5
+1033,mask_0652,5
+1034,mask_0653,5
+1035,mask_0654,5
+1036,mask_0655,5
+1037,mask_0656,5
+1038,mask_0657,5
+1039,mask_0658,5
+1040,mask_0659,5
+1041,mask_0660,5
+1042,mask_0661,5
+1043,mask_0662,5
+1044,mask_0663,5
+1045,mask_0664,5
+1046,mask_0665,5
+1047,mask_0666,5
+1048,mask_0667,5
+1049,mask_0668,5
+1050,mask_0669,5
+1051,mask_0670,5
+1052,mask_0671,5
+1053,mask_0672,5
+1054,mask_0673,5
+1055,mask_0674,5
+1056,mask_0675,5
+1057,mask_0676,5
+1058,mask_0677,5
+1059,mask_0678,5
+1060,mask_0679,5
+1061,mask_0680,5
+1062,mask_0681,5
+1063,mask_0682,5
+1064,mask_0683,5
+1065,mask_0684,5
+1066,mask_0685,5
+1067,mask_0686,5
+1068,mask_0687,5
+1069,mask_0688,5
+1070,mask_0689,5
+1071,mask_0690,5
+1072,mask_0691,5
+1073,mask_0692,5
+1074,mask_0693,5
+1075,mask_0694,5
+1076,mask_0695,5
+1077,mask_0696,5
+1078,mask_0697,5
+1079,mask_0698,5
+1080,mask_0699,5
+1081,mask_0700,5
+1082,mask_0701,5
+1083,mask_0702,5
+1084,mask_0703,5
+1085,mask_0704,5
+1086,mask_0705,5
+1087,mask_0706,5
+1088,mask_0707,5
+1089,mask_0708,5
+1090,mask_0709,5
+1091,mask_0710,5
+1092,mask_0711,5
+1093,mask_0712,5
+1094,mask_0713,5
+1095,mask_0714,5
+1096,mask_0715,5
+1097,mask_0716,5
+1098,mask_0717,5
+1099,mask_0718,5
+1100,mask_0719,5
+1101,mask_0720,5
+1102,mask_0721,5
+1103,mask_0722,5
+1104,mask_0723,5
+1105,mask_0724,5
+1106,mask_0725,5
+1107,mask_0726,5
+1108,mask_0727,5
+1109,mask_0728,5
+1110,mask_0729,5
+1111,mask_0730,5
+1112,mask_0731,5
+1113,mask_0732,5
+1114,mask_0733,5
+1115,mask_0734,5
+1116,mask_0735,5
+1117,mask_0736,5
+1118,mask_0737,5
+1119,mask_0738,5
+1120,mask_0739,5
+1121,mask_0740,5
+1122,mask_0741,5
+1123,mask_0742,5
+1124,mask_0743,5
+1125,mask_0744,5
+1126,mask_0745,5
+1127,mask_0746,5
+1128,mask_0747,5
+1129,mask_0748,5
+1130,mask_0749,5
+1131,mask_0750,5
+1132,mask_0751,5
+1133,mask_0752,5
+1134,mask_0753,5
+1135,mask_0754,5
+1136,mask_0755,5
+1137,mask_0756,5
+1138,mask_0757,5
+1139,mask_0758,5
+1140,mask_0759,5
+1141,mask_0760,5
+1142,mask_0761,5
+1143,mask_0762,5
+1144,mask_0763,5
+1145,mask_0764,5
+1146,mask_0765,5
+1147,mask_0766,5
+1148,mask_0767,5
+1149,mask_0768,5
+1150,mask_0769,5
+1151,mask_0770,5
+1152,mask_0771,5
+1153,mask_0772,5
+1154,mask_0773,5
+1155,mask_0774,5
+1156,mask_0775,5
+1157,mask_0776,5
+1158,mask_0777,5
+1159,mask_0778,5
+1160,mask_0779,5
+1161,mask_0780,5
+1162,mask_0781,5
+1163,mask_0782,5
+1164,mask_0783,5
+1165,mask_0784,5
+1166,mask_0785,5
+1167,mask_0786,5
+1168,mask_0787,5
+1169,mask_0788,5
+1170,mask_0789,5
+1171,mask_0790,5
+1172,mask_0791,5
+1173,mask_0792,5
+1174,mask_0793,5
+1175,mask_0794,5
+1176,mask_0795,5
+1177,mask_0796,5
+1178,mask_0797,5
+1179,mask_0798,5
+1180,mask_0799,5
+1181,mask_0800,5
+1182,mask_0801,5
+1183,mask_0802,5
+1184,mask_0803,5
+1185,mask_0804,5
+1186,mask_0805,5
+1187,mask_0806,5
+1188,mask_0807,5
+1189,mask_0808,5
+1190,mask_0809,5
+1191,mask_0810,5
+1192,mask_0811,5
+1193,mask_0812,5
+1194,mask_0813,5
+1195,mask_0814,5
+1196,mask_0815,5
+1197,mask_0816,5
+1198,mask_0817,5
+1199,mask_0818,5
+1200,mask_0819,5
+1201,mask_0820,5
+1202,mask_0821,5
+1203,mask_0822,5
+1204,mask_0823,5
+1205,mask_0824,5
+1206,mask_0825,5
+1207,mask_0826,5
+1208,mask_0827,5
+1209,mask_0828,5
+1210,mask_0829,5
+1211,mask_0830,5
+1212,mask_0831,5
+1213,mask_0832,5
+1214,mask_0833,5
+1215,mask_0834,5
+1216,mask_0835,5
+1217,mask_0836,5
+1218,mask_0837,5
+1219,mask_0838,5
+1220,mask_0839,5
+1221,mask_0840,5
+1222,mask_0841,5
+1223,mask_0842,5
+1224,mask_0843,5
+1225,mask_0844,5
+1226,mask_0845,5
+1227,mask_0846,5
+1228,mask_0847,5
+1229,mask_0848,5
+1230,mask_0849,5
+1231,mask_0850,5
+1232,mask_0851,5
+1233,mask_0852,5
+1234,mask_0853,5
+1235,mask_0854,5
+1236,mask_0855,5
+1237,mask_0856,5
+1238,mask_0857,5
+1239,mask_0858,5
+1240,mask_0859,5
+1241,mask_0860,5
+1242,mask_0861,5
+1243,mask_0862,5
+1244,mask_0863,5
+1245,mask_0864,5
+1246,mask_0865,5
+1247,mask_0866,5
+1248,mask_0867,5
+1249,mask_0868,5
+1250,mask_0869,5
+1251,mask_0870,5
+1252,mask_0871,5
+1253,mask_0872,5
+1254,mask_0873,5
+1255,mask_0874,5
+1256,mask_0875,5
+1257,mask_0876,5
+1258,mask_0877,5
+1259,mask_0878,5
+1260,mask_0879,5
+1261,mask_0880,5
+1262,mask_0881,5
+1263,mask_0882,5
+1264,mask_0883,5
+1265,mask_0884,5
+1266,mask_0885,5
+1267,mask_0886,5
+1268,mask_0887,5
+1269,mask_0888,5
+1270,mask_0889,5
+1271,mask_0890,5
+1272,mask_0891,5
+1273,mask_0892,5
+1274,mask_0893,5
+1275,mask_0894,5
+1276,mask_0895,5
+1277,mask_0896,5
+1278,mask_0897,5
+1279,mask_0898,5
+1280,mask_0899,5
+1281,mask_0900,5
+1282,mask_0901,5
+1283,mask_0902,5
+1284,mask_0903,5
+1285,mask_0904,5
+1286,mask_0905,5
+1287,mask_0906,5
+1288,mask_0907,5
+1289,mask_0908,5
+1290,mask_0909,5
+1291,mask_0910,5
+1292,mask_0911,5
+1293,mask_0912,5
+1294,mask_0913,5
+1295,mask_0914,5
+1296,mask_0915,5
+1297,mask_0916,5
+1298,mask_0917,5
+1299,mask_0918,5
+1300,mask_0919,5
+1301,mask_0920,5
+1302,mask_0921,5
+1303,mask_0922,5
+1304,mask_0923,5
+1305,mask_0924,5
+1306,mask_0925,5
+1307,mask_0926,5
+1308,mask_0927,5
+1309,mask_0928,5
+1310,mask_0929,5
+1311,mask_0930,5
+1312,mask_0931,5
+1313,mask_0932,5
+1314,mask_0933,5
+1315,mask_0934,5
+1316,mask_0935,5
+1317,mask_0936,5
+1318,mask_0937,5
+1319,mask_0938,5
+1320,mask_0939,5
+1321,mask_0940,5
+1322,mask_0941,5
+1323,mask_0942,5
+1324,mask_0943,5
+1325,mask_0944,5
+1326,mask_0945,5
+1327,mask_0946,5
+1328,mask_0947,5
+1329,mask_0948,5
+1330,mask_0949,5
+1331,mask_0950,5
+1332,mask_0951,5
+1333,mask_0952,5
+1334,mask_0953,5
+1335,mask_0954,5
+1336,mask_0955,5
+1337,mask_0956,5
+1338,mask_0957,5
+1339,mask_0958,5
+1340,mask_0959,5
+1341,mask_0960,5
+1342,mask_0961,5
+1343,mask_0962,5
+1344,mask_0963,5
+1345,mask_0964,5
+1346,mask_0965,5
+1347,mask_0966,5
+1348,mask_0967,5
+1349,mask_0968,5
+1350,mask_0969,5
+1351,mask_0970,5
+1352,mask_0971,5
+1353,mask_0972,5
+1354,mask_0973,5
+1355,mask_0974,5
+1356,mask_0975,5
+1357,mask_0976,5
+1358,mask_0977,5
+1359,mask_0978,5
+1360,mask_0979,5
+1361,mask_0980,5
+1362,mask_0981,5
+1363,mask_0982,5
+1364,mask_0983,5
+1365,mask_0984,5
+1366,mask_0985,5
+1367,mask_0986,5
+1368,mask_0987,5
+1369,mask_0988,5
+1370,mask_0989,5
+1371,mask_0990,5
+1372,mask_0991,5
+1373,mask_0992,5
+1374,mask_0993,5
+1375,mask_0994,5
+1376,mask_0995,5
+1377,mask_0996,5
+1378,mask_0997,5
+1379,mask_0998,5
+1380,mask_0999,5
+1381,mask_1000,5
+1382,mask_1001,5
+1383,mask_1002,5
+1384,mask_1003,5
+1385,mask_1004,5
+1386,mask_1005,5
+1387,mask_1006,5
+1388,mask_1007,5
+1389,mask_1008,5
+1390,mask_1009,5
+1391,mask_1010,5
+1392,mask_1011,5
+1393,mask_1012,5
+1394,mask_1013,5
+1395,mask_1014,5
+1396,mask_1015,5
+1397,mask_1016,5
+1398,mask_1017,5
+1399,mask_1018,5
+1400,mask_1019,5
+1401,mask_1020,5
+1402,mask_1021,5
+1403,mask_1022,5
+1404,mask_1023,5
+1405,mask_1024,5
+1406,mask_1025,5
+1407,mask_1026,5
+1408,mask_1027,5
+1409,mask_1028,5
+1410,mask_1029,5
+1411,mask_1030,5
+1412,mask_1031,5
+1413,mask_1032,5
+1414,mask_1033,5
+1415,mask_1034,5
+1416,mask_1035,5
+1417,mask_1036,5
+1418,mask_1037,5
+1419,mask_1038,5
+1420,mask_1039,5
+1421,mask_1040,5
+1422,mask_1041,5
+1423,mask_1042,5
+1424,mask_1043,5
+1425,mask_1044,5
+1426,mask_1045,5
+1427,mask_1046,5
+1428,mask_1047,5
+1429,mask_1048,5
+1430,mask_1049,5
+1431,mask_1050,5
+1432,mask_1051,5
+1433,mask_1052,5
+1434,mask_1053,5
+1435,mask_1054,5
+1436,mask_1055,5
+1437,mask_1056,5
+1438,mask_1057,5
+1439,mask_1058,5
+1440,mask_1059,5
+1441,mask_1060,5
+1442,mask_1061,5
+1443,mask_1062,5
+1444,mask_1063,5
+1445,mask_1064,5
+1446,mask_1065,5
+1447,mask_1066,5
+1448,mask_1067,5
+1449,mask_1068,5
+1450,mask_1069,5
+1451,mask_1070,5
+1452,mask_1071,5
+1453,mask_1072,5
+1454,mask_1073,5
+1455,mask_1074,5
+1456,mask_1075,5
+1457,mask_1076,5
+1458,mask_1077,5
+1459,mask_1078,5
+1460,mask_1079,5
+1461,mask_1080,5
+1462,mask_1081,5
+1463,mask_1082,5
+1464,mask_1083,5
+1465,mask_1084,5
+1466,mask_1085,5
+1467,mask_1086,5
+1468,mask_1087,5
+1469,mask_1088,5
+1470,mask_1089,5
+1471,mask_1090,5
+1472,mask_1091,5
+1473,mask_1092,5
+1474,mask_1093,5
+1475,mask_1094,5
+1476,mask_1095,5
+1477,mask_1096,5
+1478,mask_1097,5
+1479,mask_1098,5
+1480,mask_1099,5
+1481,mask_1100,5
+1482,mask_1101,5
+1483,mask_1102,5
+1484,mask_1103,5
+1485,mask_1104,5
+1486,mask_1105,5
+1487,mask_1106,5
+1488,mask_1107,5
+1489,mask_1108,5
+1490,mask_1109,5
+1491,mask_1110,5
+1492,mask_1111,5
+1493,mask_1112,5
+1494,mask_1113,5
+1495,mask_1114,5
+1496,mask_1115,5
+1497,mask_1116,5
+1498,mask_1117,5
+1499,mask_1118,5
+1500,mask_1119,5
+1501,mask_1120,5
+1502,mask_1121,5
+1503,mask_1122,5
+1504,mask_1123,5
+1505,mask_1124,5
+1506,mask_1125,5
+1507,mask_1126,5
+1508,mask_1127,5
+1509,mask_1128,5
+1510,mask_1129,5
+1511,mask_1130,5
+1512,mask_1131,5
+1513,mask_1132,5
+1514,mask_1133,5
+1515,mask_1134,5
+1516,mask_1135,5
+1517,mask_1136,5
+1518,mask_1137,5
+1519,mask_1138,5
+1520,mask_1139,5
+1521,mask_1140,5
+1522,mask_1141,5
+1523,mask_1142,5
+1524,mask_1143,5
+1525,mask_1144,5
+1526,mask_1145,5
+1527,mask_1146,5
+1528,mask_1147,5
+1529,mask_1148,5
+1530,mask_1149,5
+1531,mask_1150,5
+1532,mask_1151,5
+1533,mask_1152,5
+1534,mask_1153,5
+1535,mask_1154,5
+1536,mask_1155,5
+1537,mask_1156,5
+1538,mask_1157,5
+1539,mask_1158,5
+1540,mask_1159,5
+1541,mask_1160,5
+1542,mask_1161,5
+1543,mask_1162,5
+1544,mask_1163,5
+1545,mask_1164,5
+1546,mask_1165,5
+1547,mask_1166,5
+1548,mask_1167,5
+1549,mask_1168,5
+1550,mask_1169,5
+1551,mask_1170,5
+1552,mask_1171,5
+1553,mask_1172,5
+1554,mask_1173,5
+1555,mask_1174,5
+1556,mask_1175,5
+1557,mask_1176,5
+1558,mask_1177,5
+1559,mask_1178,5
+1560,mask_1179,5
+1561,mask_1180,5
+1562,mask_1181,5
+1563,mask_1182,5
+1564,mask_1183,5
+1565,mask_1184,5
+1566,mask_1185,5
+1567,mask_1186,5
+1568,mask_1187,5
+1569,mask_1188,5
+1570,mask_1189,5
+1571,mask_1190,5
+1572,mask_1191,5
+1573,mask_1192,5
+1574,mask_1193,5
+1575,mask_1194,5
+1576,mask_1195,5
+1577,mask_1196,5
+1578,mask_1197,5
+1579,mask_1198,5
+1580,mask_1199,5
+1581,mask_1200,5
+1582,mask_1201,5
+1583,mask_1202,5
+1584,mask_1203,5
+1585,mask_1204,5
+1586,mask_1205,5
+1587,mask_1206,5
+1588,mask_1207,5
+1589,mask_1208,5
+1590,mask_1209,5
+1591,mask_1210,5
+1592,mask_1211,5
+1593,mask_1212,5
+1594,mask_1213,5
+1595,mask_1214,5
+1596,mask_1215,5
+1597,mask_1216,5
+1598,mask_1217,5
+1599,mask_1218,5
+1600,mask_1219,5
+1601,mask_1220,5
+1602,mask_1221,5
+1603,mask_1222,5
+1604,mask_1223,5
+1605,mask_1224,5
+1606,mask_1225,5
+1607,mask_1226,5
+1608,mask_1227,5
+1609,mask_1228,5
+1610,mask_1229,5
+1611,mask_1230,5
+1612,mask_1231,5
+1613,mask_1232,5
+1614,mask_1233,5
+1615,mask_1234,5
+1616,mask_1235,5
+1617,mask_1236,5
+1618,mask_1237,5
+1619,mask_1238,5
+1620,mask_1239,5
+1621,mask_1240,5
+1622,mask_1241,5
+1623,mask_1242,5
+1624,mask_1243,5
+1625,mask_1244,5
+1626,mask_1245,5
+1627,mask_1246,5
+1628,mask_1247,5
+1629,mask_1248,5
+1630,mask_1249,5
+1631,mask_1250,5
+1632,mask_1251,5
+1633,mask_1252,5
+1634,mask_1253,5
+1635,mask_1254,5
+1636,mask_1255,5
+1637,mask_1256,5
+1638,mask_1257,5
+1639,mask_1258,5
+1640,mask_1259,5
+1641,mask_1260,5
+1642,mask_1261,5
+1643,mask_1262,5
+1644,mask_1263,5
+1645,mask_1264,5
+1646,mask_1265,5
+1647,mask_1266,5
+1648,mask_1267,5
+1649,mask_1268,5
+1650,mask_1269,5
+1651,mask_1270,5
+1652,mask_1271,5
+1653,mask_1272,5
+1654,mask_1273,5
+1655,mask_1274,5
+1656,mask_1275,5
+1657,mask_1276,5
+1658,mask_1277,5
+1659,mask_1278,5
+1660,mask_1279,5
+1661,mask_1280,5
+1662,mask_1281,5
+1663,mask_1282,5
+1664,mask_1283,5
+1665,mask_1284,5
+1666,mask_1285,5
+1667,mask_1286,5
+1668,mask_1287,5
+1669,mask_1288,5
+1670,mask_1289,5
+1671,mask_1290,5
+1672,mask_1291,5
+1673,mask_1292,5
+1674,mask_1293,5
+1675,mask_1294,5
+1676,mask_1295,5
+1677,mask_1296,5
+1678,mask_1297,5
+1679,mask_1298,5
+1680,mask_1299,5
+1681,mask_1300,5
+1682,mask_1301,5
+1683,mask_1302,5
+1684,mask_1303,5
+1685,mask_1304,5
+1686,mask_1305,5
+1687,mask_1306,5
+1688,mask_1307,5
+1689,mask_1308,5
+1690,mask_1309,5
+1691,mask_1310,5
+1692,mask_1311,5
+1693,mask_1312,5
+1694,mask_1313,5
+1695,mask_1314,5
+1696,mask_1315,5
+1697,mask_1316,5
+1698,mask_1317,5
+1699,mask_1318,5
+1700,mask_1319,5
+1701,mask_1320,5
+1702,mask_1321,5
+1703,mask_1322,5
+1704,mask_1323,5
+1705,mask_1324,5
+1706,mask_1325,5
+1707,mask_1326,5
+1708,mask_1327,5
+1709,mask_1328,5
+1710,mask_1329,5
+1711,mask_1330,5
+1712,mask_1331,5
+1713,mask_1332,5
+1714,mask_1333,5
+1715,mask_1334,5
+1716,mask_1335,5
+1717,mask_1336,5
+1718,mask_1337,5
+1719,mask_1338,5
+1720,mask_1339,5
+1721,mask_1340,5
+1722,mask_1341,5
+1723,mask_1342,5
+1724,mask_1343,5
+1725,mask_1344,5
+1726,mask_1345,5
+1727,mask_1346,5
+1728,mask_1347,5
+1729,mask_1348,5
+1730,mask_1349,5
+1731,mask_1350,5
+1732,mask_1351,5
+1733,mask_1352,5
+1734,mask_1353,5
+1735,mask_1354,5
+1736,mask_1355,5
+1737,mask_1356,5
+1738,mask_1357,5
+1739,mask_1358,6
+1740,mask_1359,5
+1741,mask_1360,5
+1742,mask_1361,5
+1743,mask_1362,5
+1744,mask_1363,5
+1745,mask_1364,5
+1746,mask_1365,5
+1747,mask_1366,5
+1748,mask_1367,5
+1749,mask_1368,5
+1750,mask_1369,5
+1751,mask_1370,5
+1752,mask_1371,5
+1753,mask_1372,5
+1754,mask_1373,5
+1755,mask_1374,5
+1756,mask_1375,5
+1757,mask_1376,5
+1758,mask_1377,5
+1759,mask_1378,5
+1760,mask_1379,5
+1761,mask_1380,5
+1762,mask_1381,5
+1763,mask_1382,5
+1764,mask_1383,5
+1765,Maureen,6
+1766,Maureen Gallagher,10
+1767,Mayor David Miller,10
+1768,Mayors Office,4
+1769,Meaford United Church,12
+1770,Media Promo,10
+1771,Media Station - CBC|AM,7
+1772,Melville United,12
+1773,Mental Health Outreach Team - Hamilton,9
+1774,Merle Levine Academy,1
+1775,Merrill Lynch Investments,3
+1776,Metro Prep Academy,1
+1777,Metro Waste Paper Recovery,3
+1778,Metropolitan Preparatory  Academy,1
+1779,Mike - Cardboard Boxes,10
+1780,Min. of Environment - Owen Sound,4
+1781,Minister of Municipal Affairs - Tony Clement,4
+1782,Minto Urban Communities Inc.,3
+1783,Mintz & Partners Management Services,3
+1784,Miratel Solutions Inc.,3
+1785,Misc individuals,5
+1786,Miscellaneous,8
+1787,Miscellaneous Region,11
+1788,MLSE,3
+1789,Molson,3
+1790,Moncton,11
+1791,Moncton Youth Residences,9
+1792,Mono Mills Anglican Church,12
+1793,Montcrest Elementary,1
+1794,Montcrest School,1
+1795,Montreal,11
+1796,Montreal City Mission,9
+1797,Moosehead Game,3
+1798,Mooseheads,10
+1799,Moraine Hills Public School,1
+1800,Motorcity Saturn Dealership - Whitby,3
+1801,Mount Albert United Church,12
+1802,Murphy and Company,3
+1803,National Bank Financial,3
+1804,Nazareth & Anne's House,9
+1805,Neill-Wycik Co-op,3
+1806,Netivoh Hatorah Day School,1
+1807,Netivut Hatorah,1
+1808,New Glasgow,11
+1809,Newfoundland & Labrador Housing & Homelessness Network,9
+1810,Newtonbrook Secondary School,1
+1811,Newtonbrook United Church,12
+1812,Niagara Falls,11
+1813,Nicola's Choice Meats,3
+1814,No Fixed Address - Yukon Family Services Association,9
+1815,North End Community,9
+1816,North House Shelter,9
+1817,North Star United Church,12
+1818,North Toronto CI,1
+1819,Northlea,12
+1820,Northminster United Church,12
+1821,Northwest Barrie United Church,12
+1822,Notre Dame Secondary School,1
+1823,NSCC Akerley,3
+1824,NSCC Annapolis,3
+1825,NSCC Burridge Yarmouth,3
+1826,NSCC Cumberland,3
+1827,NSCC Halifax,3
+1828,NSCC IT Campus,3
+1829,NSCC Kingstec,3
+1830,NSCC Marconi,3
+1831,NSCC Truro,3
+1832,OCAD,1
+1833,Okanagan Boys and Girls Clubs,9
+1834,Old Brewery Mission,9
+1835,One Dog Digs,10
+1836,Ontario Non-Profit Housing Association,9
+1837,Operation Come Home,9
+1838,Orillia,11
+1839,Orillia & District Construction / Habitat for Humanity,3
+1840,Oriole Park Public School,1
+1841,Oriole Park United Church,12
+1842,Oriole York Mills United Church,12
+1843,Oshawa|AM,7
+1844,Oshawa|PM,7
+1845,Osler Hoskin Harcourt LLP,3
+1846,Other religious org,12
+1847,Ottawa,11
+1848,Our Lady of Good Voyage,1
+1849,Our Lady of the Lake Catholic College School,1
+1850,Our Place Peel,9
+1851,Out of the Rain,9
+1852,Owen Sound,11
+1853,Pacific Community Resources Society Youth Services,9
+1854,Parry Sound District Housing Corp.,9
+1855,Patterson's Pharmacy,3
+1856,PDS,3
+1857,Peel Board of Education,1
+1858,Peter Knechtel,6
+1859,Peterborough,11
+1860,Phoenix Youth Programs,9
+1861,Pictou County Roots for Youth,9
+1862,Pilot Butte School - Saskatchewan,1
+1863,Pioneer Memorial United,12
+1864,Plaques 2006,10
+1865,Pope John Paul II Catholic S.S.,1
+1866,Port Cares,9
+1867,Port Colbourne,11
+1868,Prentice Yates & Clark,3
+1869,Primaris Management Inc,3
+1870,Prince of Peace Catholic School - Keswick,1
+1871,Promo,10
+1872,Promo for Neil Bandel,10
+1873,Protocol Marketing,3
+1874,Publicity - PSA,10
+1875,Quebec City,11
+1876,Queen Station|AM,7
+1877,Queen's Park Station|AM,7
+1878,Queen's Park Station|PM,7
+1879,Quesnel,11
+1880,Radical - Mississauga,3
+1881,Rainbow Youth Centre,9
+1882,RAP Jeunesse des Laurentides,9
+1883,RBC,3
+1884,RBC - Portage La Prairie,3
+1885,RBC - Transit  # 3221- Montreal,3
+1886,RBC - Transit  #09107- Winnipeg,3
+1887,RBC - Transit # 6832,3
+1888,RBC #00002,3
+1889,RBC #6172,3
+1890,RBC Dominion Securities,3
+1891,RBC Dominion Securities Inc. - Midland,3
+1892,RBC Dominion Securities- Sudbury,3
+1893,RBC Dominion Securities Transit # 2878,3
+1894,RBC- Employee Banking Branch Transit # 4506,3
+1895,RBC Foundation Group,3
+1896,RBC Global Services,3
+1897,RBC Investments,3
+1898,RBC LS /RBC Financial Group,3
+1899,RBC Regina,3
+1900,RBC Royal Bank - Kemptville Branch,3
+1901,RBC Royal Bank Transit #03592,3
+1902,RBC Royal Trust Tower,3
+1903,RBC Transit # 08982- Oakville,3
+1904,RBC Transit # 5902,3
+1905,RBC Transit #02422,3
+1906,RBC Transit #3322,3
+1907,RBC-Transit #01752 Grimsby,3
+1908,RE/Max a-b Realty Ltd.,3
+1909,Regent Park Community Heath Centre,9
+1910,Regina,11
+1911,Region of Peel,11
+1912,RF Hall Secondary School,1
+1913,Rheem,3
+1914,Richmond Hill United Church,12
+1915,Rivoli Toque sales,7
+1916,Ronnie Bouvier,10
+1917,Rosedale Rotary Club,9
+1918,Royal Bank,3
+1919,Royal St. George's College,1
+1920,Royal York Rd,12
+1921,RTR - Walking Home Team,10
+1922,RTR (Comps),10
+1923,RtR Inventory/website & Misc. sales,6
+1924,Rustic Bakery,3
+1925,Ryandale Shelter for the Homeless,9
+1926,Ryerson Polytechnic University,1
+1927,S.A.A.I.L.,9
+1928,Sacred Heart Catholic School,1
+1929,Sacred Heart Newmarket,1
+1930,Safe Harbour Society,9
+1931,Saint Catherines,11
+1932,Saint John,11
+1933,Saint John Human Development Council - Safe Harbour,9
+1934,Saint John's,11
+1935,Saint Mary's University,1
+1936,Sarnia,7
+1937,Sault Ste. Marie,11
+1938,Schools,1
+1939,Scotiabank,10
+1940,SE Media Monday Tour,10
+1941,Sean Gadon - Fed. House of Commons,10
+1942,Sean Goetz-Gadon,10
+1943,Seasons House,9
+1944,Second Cup,3
+1945,Secunda Marine,3
+1946,Senator O'Connor College School,1
+1947,Seneca,1
+1948,Servants Anonymous Society of Calgary,9
+1949,Sharon Airhart,10
+1950,Shelter House,9
+1951,Sheppard Station|AM,7
+1952,Sheppard Station|PM,7
+1953,Sherbourne Health Centre,9
+1954,Sheridan College,1
+1955,Sherry Kozak,10
+1956,Shonagh,6
+1957,SHYFT,9
+1958,Smith Falls,11
+1959,Spectre de rue,9
+1960,Spectrum Investments,3
+1961,Sprint Canada,3
+1962,ST CATHERINES,11
+1963,St John School,1
+1964,St John's Elementary Catholic School,1
+1965,St Rose of Lima,1
+1966,St. Andrew's College,1
+1967,St. Andrew's Station|AM,7
+1968,St. Catharines,11
+1969,St. Christopher House,9
+1970,St. Clair Station|AM,7
+1971,St. Clements School,1
+1972,St. Columbus by the Lake Presbyterian,12
+1973,St. Hyacinthe,11
+1974,St. James Bond,12
+1975,St. James United Church,12
+1976,St. John Catholic School,1
+1977,St. John's,11
+1978,St. John's (Nfld),11
+1979,St. John's Catholic School,1
+1980,St. John's United,12
+1981,St. Leonard's Society of Canada,10
+1982,St. Mildred's Lightbourn School,1
+1983,St. Monica's Catholic School,1
+1984,St. Patrick's Station|AM,7
+1985,St. Patrick's Station|PM,7
+1986,St. Paul Guarantee Insurance Company,3
+1987,St. Paul's Guarantee - Royal Trust Tower,3
+1988,St. Rose of Lima School,1
+1989,St. Thomas Acquinas School - Tottenhan,1
+1990,St. Vincent de Paul Society,9
+1991,St.James United Church,12
+1992,St.James-Bond United Church,12
+1993,St.Mathews United Church,12
+1994,St.Paul's United Church,12
+1995,Stouffville,12
+1996,Stratford,11
+1997,Stratford Central Secondary School,1
+1998,Stratford/Perth Shelterlink,9
+1999,Sudbury,11
+2000,Sudbury Action Centre for Youth,9
+2001,Sudbury Commercial Banking,3
+2002,Sue Bochner,10
+2003,Susan MacLean,6
+2004,Swiss Chalet,3
+2005,Sydney,7
+2006,Team Canada,10
+2007,Telehop,3
+2008,Telehop Fundraiser,9
+2009,TetraPak Canada,3
+2010,The Art Shoppe,3
+2011,The Canadian Mental Health Association Thompson Inc.,9
+2012,The Daniels Corporation,3
+2013,The Exchange Tower - TSE,3
+2014,The Home Depot,3
+2015,The Hope Centre,9
+2016,The Mactier - Foot's Bay Pastoral Charge,12
+2017,The Marilyn Van Stone Foundation,3
+2018,The Rivoli,10
+2019,The Running Room,3
+2020,The Salvation Army - Barrie Bayside,9
+2021,The Salvation Army Chatham Kent Ministries,9
+2022,The Second City,10
+2023,The Toronto French School,1
+2024,The Woodlands School,1
+2025,The York School,1
+2026,Thistletown United,12
+2027,THOMPSON,11
+2028,Thornhill,12
+2029,Thornhill Secondary School,1
+2030,Thornhill United Church,12
+2031,Three Oaks Foundation,9
+2032,Timothy Eaton Memorial Church,12
+2033,Toque Tuesday  - DE,10
+2034,Toque Tuesday  - Media,10
+2035,Toque Tuesday - Volunteers,10
+2036,Toronto,11
+2037,Toronto - Houselink,11
+2038,Toronto - St. Christopher House,11
+2039,Toronto - The Furniture Bank-internal only,11
+2040,Toronto Agencies - Misc,9
+2041,Toronto Chinese Church,12
+2042,Toronto Community Housing,9
+2043,Toronto Corporate,3
+2044,Toronto Day of Sales,2
+2045,Toronto Direct Energy,3
+2046,Toronto French School,1
+2047,Toronto Housing,9
+2048,Toronto Religious - other,12
+2049,Toronto Schools,1
+2050,Toronto United Church,12
+2051,Town of Newmarket,4
+2052,Trade Centre Limited,3
+2053,Transitional Supportive Housing Services  of York Region,9
+2054,Tresa Clemmoenson,10
+2055,Tridel,3
+2056,Trinity - Malton,12
+2057,Trinity St. Paul's Outreach,10
+2058,Trinity Uxbridge,12
+2059,TrizecHahn,3
+2060,Tyrone United Church,12
+2061,U of T,1
+2062,Underworld,3
+2063,United Church,12
+2064,United Church Council,12
+2065,United Rentals,3
+2066,Unity Project,9
+2067,University of Waterloo Planning Association,1
+2068,Urban Strategies,3
+2069,Vancouver,11
+2070,Victoria,11
+2071,Victoria Cool Aid Society,9
+2072,Vincent Paul Family Homes,3
+2073,Vincent Place Inc.,9
+2074,Virgin Unite,0
+2075,Volunteer Resource Centre - Sydney,9
+2076,Vradenburg Jr School,1
+2077,Wachiay Friendship Centre,9
+2078,Walking Home,10
+2079,WalMart - Agincourt,3
+2080,WalMart - Mississauga,3
+2081,WalMart - Oakville,3
+2082,WalMart - Whitby,3
+2083,Wartsilia,3
+2084,Watt Public School Activity Fund,1
+2085,Welland,11
+2086,Welland Community Resource & Action Centre,9
+2087,Wesley Urban Ministries,12
+2088,West Hill United Church,12
+2089,West Neighbourhood House,9
+2090,Westacres School,1
+2091,Westminster Gilroy United Church,12
+2092,Whitby|AM,7
+2093,Whitby|PM,7
+2094,White Oaks Secondary School (Oakville),1
+2095,WHITEHORSE,11
+2096,Willowdale United,12
+2097,Windsor,7
+2098,WINNIPEG,11
+2099,Winpak Technologies,3
+2100,Wish Magazine,10
+2101,Withrow Avenue Junior Public School,1
+2102,Woodland Christian High School,1
+2103,Words & Music,10
+2104,Yarmouth,11
+2105,YES Shelter for Youth and Families,9
+2106,York Pines United Church,12
+2107,York Region,11
+2108,York University Rotaract Club,1
+2109,York University|PM,7
+2110,Youth Impact Jeunesse Inc,9
+2111,Youth Opportunities Limited,9
+2112,Youth Safe Harbour Transitional Services,9
+2113,Youthworks,10
+2114,YWCA Greater Toronto,9
+2115,YWCA Halifax,9
+2116,YWCA Muskoka,9
+2117,YWCA Niagara Region,9
